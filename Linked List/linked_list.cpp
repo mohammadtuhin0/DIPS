@@ -43,27 +43,27 @@ int main() {
             case 4:
                 problem4();
                 break;
-            // case 5:
-            //     problem5();
-            //     break;
-            // case 6:
-            //     problem6();
-            //     break;
-            // case 7:
-            //     problem7();
-            //     break;
-            // case 8:
-            //     problem8();
-            //     break;
-            // case 9:
-            //     problem9();
-            //     break;
-            // case 10:
-            //     problem10();
-            //     break;
-            // case 11:
-            //     cout << "Exiting program. Goodbye!\n";
-            //     return 0;
+            case 5:
+                problem5();
+                break;
+            case 6:
+                problem6();
+                break;
+            case 7:
+                problem7();
+                break;
+            case 8:
+                problem8();
+                break;
+            case 9:
+                problem9();
+                break;
+            case 10:
+                problem10();
+                break;
+            case 11:
+                cout << "Exiting program. Goodbye!\n";
+                return 0;
             default:
                 cout << "Invalid choice! Please try again.\n";
         }
